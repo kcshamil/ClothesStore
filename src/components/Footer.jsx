@@ -28,8 +28,8 @@ export default function Footer() {
             <ul className="mt-4 space-y-3 text-sm text-gray-600">
               <li><a href="#" className="hover:text-black">New Arrivals</a></li>
               <li><a href="#" className="hover:text-black">Men</a></li>
+              <li><a href="#" className="hover:text-black">Women</a></li>
               <li><a href="#" className="hover:text-black">Trending</a></li>
-              <li><a href="#" className="hover:text-black">Accessories</a></li>
             </ul>
           </div>
 
